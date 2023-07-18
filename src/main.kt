@@ -1,11 +1,3 @@
-/*fun main() {
-    val fruits: List<String> = listOf("Strawberry", "Apple", "Banana")
-
-    repeat(fruits.size) { index ->
-        val fruit = fruits[index]
-        println(fruit)
-    }
-}*/
 
 fun main() {
     notice()
